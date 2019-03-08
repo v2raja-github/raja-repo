@@ -1,2 +1,2 @@
 # raja-repo
-raja repo will contain store application
+raja repo will contain store application1
